@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MGeolocation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LatText">Latitude</string>
+    <string name="LongText">Longitude</string>
+    <string name="LatTex">Latitude</string>
+    <string name="LongTex">Longitude</string>
+</resources>
